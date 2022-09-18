@@ -11,7 +11,7 @@ N/A
 ## Usage
 
 Users will find brief descriptions of Horiseon's marketing tools linked to the titles on the right side of the banner at the top of the page. 
-<image>
+<img width="773" alt="Screen Shot 2022-09-18 at 5 18 03 PM" src="https://user-images.githubusercontent.com/112979481/190930670-4e3e8bb0-e7c4-41c5-8bfa-b1e609f5efb4.png">
   
 
 ## Credits
